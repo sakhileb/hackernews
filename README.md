@@ -7,6 +7,7 @@
 - edit the .env file so it connects your sql server
 - Make sure you have composer installed on your local machine.
 - Run php artisan serve to run the site on your local host.
+- Run php artisan update:news_items to fetch data periodically.
 
 
 # "Comments Page" was still under construction but due to time out it was not complete.
