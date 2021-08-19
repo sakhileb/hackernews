@@ -2,5 +2,5 @@
  A neat hacker news clone build for an Assessment.
  
 # Usage:
-- Clone to local machine
-- 
+- Clone repo to local machine
+- import database (found in root folder)
