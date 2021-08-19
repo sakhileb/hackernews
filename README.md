@@ -9,4 +9,5 @@
 - Run php artisan serve to run the site on your local host.
 
 
-# Comments Page was still under construction but due to time out it was not complete.
+# "Comments Page" was still under construction but due to time out it was not complete.
+- for more info : [email](sakhilemaxwell@gmail.com)
